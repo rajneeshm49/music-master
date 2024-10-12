@@ -1,7 +1,7 @@
 {
   "name": "music-master",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.html",
   "scripts": {
     "dev:start": "parcel src/index.html",
     "build": "parcel build src/index.html",
